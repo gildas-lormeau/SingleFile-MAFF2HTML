@@ -15,10 +15,6 @@ SingleFile can be launched from the command line to convert MAFF files to HTML f
 - Unzip the [master archive](https://github.com/gildas-lormeau/SingleFile/archive/master.zip) somewhere on your disk in an empty folder.
 
   `$ unzip master.zip .`
-
-- Go into the `maff2html` folder.
-
-  `$ cd maff2html`
   
 - Install dependencies with npm (installed with Node.js).
 
