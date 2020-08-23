@@ -6,7 +6,7 @@ SingleFile can be launched from the command line to convert MAFF files to HTML f
 
 ## Install
 
-- Unzip and install the latest Nightly version of [Firefox version 56.0.2](https://github.com/gildas-lormeau/SingleFile/tree/master/maff2html/bin/firefox/)
+- Unzip and install the latest Nightly version of [Firefox version 56.0.2](https://github.com/gildas-lormeau/SingleFile-MAFF2HTML/tree/master/bin/firefox/)
 
 - Make sure the executable of Firefox can be found through the `PATH` environment variable. Otherwise you will need to set the `--browser-executable-path` option to help SingleFile locating it.
 
