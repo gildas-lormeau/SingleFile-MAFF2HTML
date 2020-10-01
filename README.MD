@@ -4,7 +4,7 @@
 
 SingleFile can be launched from the command line to convert MAFF files to HTML files by running it into Firefox. It runs through Node.js as a standalone script injected into the web page instead of being embedded into a WebExtension. It uses [Selenium WebDriver](https://www.npmjs.com/package/selenium-webdriver) to connect Node.js to Firefox.
 
-## Install
+## How to Install
 
 - Unzip and install the latest Nightly version of [Firefox version 56.0.2](https://github.com/gildas-lormeau/SingleFile-MAFF2HTML/tree/master/bin/firefox/)
 
@@ -26,7 +26,7 @@ SingleFile can be launched from the command line to convert MAFF files to HTML f
 
 - Unzip and copy the [Mozilla geckodriver version 0.20.1](https://github.com/gildas-lormeau/SingleFile/tree/master/maff2html/bin/geckodriver/) executable in the `maff2html` folder.
 
-## Run
+## Steps to Run
 
 - Syntax
  
